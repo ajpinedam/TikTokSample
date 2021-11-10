@@ -1,0 +1,3 @@
+namespace TikTokSample.Skia.Gtk
+{
+}
